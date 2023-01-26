@@ -1,4 +1,4 @@
-# 0x11. C - _printf
+# printf
 
 The project consists of normal functions, derived functions a man page and a README.md file.
 
@@ -79,4 +79,4 @@ printf("Len:[%d]\n", len2);
 _printf("Unknown:[%r]\n");
 
 
-This  project is developed by **Chukwujama Chibuzor** and **Anosike Onyedikachi** **ALX cohort 7**
+This  project is developed by **Marcus Ruth** and **Micheal Oriyomi** **ALX cohort 7**
